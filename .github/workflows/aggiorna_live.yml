@@ -1,0 +1,35 @@
+name: Aggiornamento Automatico Formazioni Live
+
+on:
+  schedule:
+    - cron: '0 10 * * *' # Si accende da solo tutti i giorni alle 12:00 (ora italiana)
+    - cron: '0 16 * * *' # E si riaccende alle 18:00 (ora italiana) prima dei match
+  workflow_dispatch: # Ti permette di accenderlo tu con un click dal telefono quando vuoi
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Accedi ai file del progetto
+        uses: actions/checkout@v3
+
+      - name: Configura Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Installa i componenti dello scraper
+        run: |
+          pip install pandas ScraperFC
+
+      - name: Esegui lo scraper delle formazioni live
+        run: |
+          python formazioni_live.py # <- CONTROLLA: scarica_formazioni_live.py
+
+      - name: Salva e pubblica i dati aggiornati nel database online
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add banca_dati_formazioni_live.csv
+          git commit -m "Aggiornamento formazioni live automatico" || exit 0
+          git push
