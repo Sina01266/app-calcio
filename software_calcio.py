@@ -5,7 +5,7 @@ import warnings
 from datetime import datetime
 import numpy as np
 import pandas as pd
-import ScraperFC as sfc
+#import ScraperFC as sfc
 import matplotlib
 
 matplotlib.use("Agg")
