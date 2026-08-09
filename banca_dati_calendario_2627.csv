@@ -1,0 +1,381 @@
+Giornata,Squadra_Casa,Squadra_Trasferta,ID_Partita,Stato
+1,Inter,Monza,14500001,unstarted
+1,Torino,Milan,14500002,unstarted
+1,Genoa,Napoli,14500003,unstarted
+1,Bologna,Lazio,14500004,unstarted
+1,AS Roma,Fiorentina,14500005,unstarted
+1,Atalanta,Sassuolo,14500006,unstarted
+1,Udinese,Como,14500007,unstarted
+1,Parma,Cagliari,14500008,unstarted
+1,Venezia,Lecce,14500009,unstarted
+1,Frosinone,Juventus,14500010,unstarted
+2,AC Milan,Venezia,14500011,unstarted
+2,Juventus,Parma,14500012,unstarted
+2,Napoli,Como,14500013,unstarted
+2,Lazio,Genoa,14500014,unstarted
+2,Inter,Cagliari,14500015,unstarted
+2,Atalanta,Bologna,14500016,unstarted
+2,Fiorentina,Frosinone,14500017,unstarted
+2,Monza,Udinese,14500018,unstarted
+2,Lecce,AS Roma,14500019,unstarted
+2,Sassuolo,Torino,14500020,unstarted
+3,Atalanta,Juventus,14500021,unstarted
+3,Bologna,AC Milan,14500022,unstarted
+3,AS Roma,Inter,14500023,unstarted
+3,Lazio,Venezia,14500024,unstarted
+3,Fiorentina,Como,14500025,unstarted
+3,Torino,Parma,14500026,unstarted
+3,Napoli,Empoli,14500027,unstarted
+3,Genoa,Cagliari,14500028,unstarted
+3,Monza,Udinese,14500029,unstarted
+3,Verona,Lecce,14500030,unstarted
+4,Bologna,Atalanta,14500031,unstarted
+4,AS Roma,Juventus,14500032,unstarted
+4,Lazio,AC Milan,14500033,unstarted
+4,Fiorentina,Inter,14500034,unstarted
+4,Torino,Venezia,14500035,unstarted
+4,Napoli,Como,14500036,unstarted
+4,Genoa,Parma,14500037,unstarted
+4,Monza,Empoli,14500038,unstarted
+4,Verona,Cagliari,14500039,unstarted
+4,Lecce,Udinese,14500040,unstarted
+5,AS Roma,Bologna,14500041,unstarted
+5,Lazio,Atalanta,14500042,unstarted
+5,Fiorentina,Juventus,14500043,unstarted
+5,Torino,AC Milan,14500044,unstarted
+5,Napoli,Inter,14500045,unstarted
+5,Genoa,Venezia,14500046,unstarted
+5,Monza,Como,14500047,unstarted
+5,Verona,Parma,14500048,unstarted
+5,Lecce,Empoli,14500049,unstarted
+5,Udinese,Cagliari,14500050,unstarted
+6,Lazio,AS Roma,14500051,unstarted
+6,Fiorentina,Bologna,14500052,unstarted
+6,Torino,Atalanta,14500053,unstarted
+6,Napoli,Juventus,14500054,unstarted
+6,Genoa,AC Milan,14500055,unstarted
+6,Monza,Inter,14500056,unstarted
+6,Verona,Venezia,14500057,unstarted
+6,Lecce,Como,14500058,unstarted
+6,Udinese,Parma,14500059,unstarted
+6,Cagliari,Empoli,14500060,unstarted
+7,Fiorentina,Lazio,14500061,unstarted
+7,Torino,AS Roma,14500062,unstarted
+7,Napoli,Bologna,14500063,unstarted
+7,Genoa,Atalanta,14500064,unstarted
+7,Monza,Juventus,14500065,unstarted
+7,Verona,AC Milan,14500066,unstarted
+7,Lecce,Inter,14500067,unstarted
+7,Udinese,Venezia,14500068,unstarted
+7,Cagliari,Como,14500069,unstarted
+7,Empoli,Parma,14500070,unstarted
+8,Torino,Fiorentina,14500071,unstarted
+8,Napoli,Lazio,14500072,unstarted
+8,Genoa,AS Roma,14500073,unstarted
+8,Monza,Bologna,14500074,unstarted
+8,Verona,Atalanta,14500075,unstarted
+8,Lecce,Juventus,14500076,unstarted
+8,Udinese,AC Milan,14500077,unstarted
+8,Cagliari,Inter,14500078,unstarted
+8,Empoli,Venezia,14500079,unstarted
+8,Parma,Como,14500080,unstarted
+9,Napoli,Torino,14500081,unstarted
+9,Genoa,Fiorentina,14500082,unstarted
+9,Monza,Lazio,14500083,unstarted
+9,Verona,AS Roma,14500084,unstarted
+9,Lecce,Bologna,14500085,unstarted
+9,Udinese,Atalanta,14500086,unstarted
+9,Cagliari,Juventus,14500087,unstarted
+9,Empoli,AC Milan,14500088,unstarted
+9,Parma,Inter,14500089,unstarted
+9,Como,Venezia,14500090,unstarted
+10,Genoa,Napoli,14500091,unstarted
+10,Monza,Torino,14500092,unstarted
+10,Verona,Fiorentina,14500093,unstarted
+10,Lecce,Lazio,14500094,unstarted
+10,Udinese,AS Roma,14500095,unstarted
+10,Cagliari,Bologna,14500096,unstarted
+10,Empoli,Atalanta,14500097,unstarted
+10,Parma,Juventus,14500098,unstarted
+10,Como,AC Milan,14500099,unstarted
+10,Venezia,Inter,14500100,unstarted
+11,Monza,Genoa,14500101,unstarted
+11,Verona,Napoli,14500102,unstarted
+11,Lecce,Torino,14500103,unstarted
+11,Udinese,Fiorentina,14500104,unstarted
+11,Cagliari,Lazio,14500105,unstarted
+11,Empoli,AS Roma,14500106,unstarted
+11,Parma,Bologna,14500107,unstarted
+11,Como,Atalanta,14500108,unstarted
+11,Venezia,Juventus,14500109,unstarted
+11,Inter,AC Milan,14500110,unstarted
+12,Verona,Monza,14500111,unstarted
+12,Lecce,Genoa,14500112,unstarted
+12,Udinese,Napoli,14500113,unstarted
+12,Cagliari,Torino,14500114,unstarted
+12,Empoli,Fiorentina,14500115,unstarted
+12,Parma,Lazio,14500116,unstarted
+12,Como,AS Roma,14500117,unstarted
+12,Venezia,Bologna,14500118,unstarted
+12,Inter,Atalanta,14500119,unstarted
+12,AC Milan,Juventus,14500120,unstarted
+13,Lecce,Verona,14500121,unstarted
+13,Udinese,Monza,14500122,unstarted
+13,Cagliari,Genoa,14500123,unstarted
+13,Empoli,Napoli,14500124,unstarted
+13,Parma,Torino,14500125,unstarted
+13,Como,Fiorentina,14500126,unstarted
+13,Venezia,Lazio,14500127,unstarted
+13,Inter,AS Roma,14500128,unstarted
+13,AC Milan,Bologna,14500129,unstarted
+13,Juventus,Atalanta,14500130,unstarted
+14,Udinese,Lecce,14500131,unstarted
+14,Cagliari,Verona,14500132,unstarted
+14,Empoli,Monza,14500133,unstarted
+14,Parma,Genoa,14500134,unstarted
+14,Como,Napoli,14500135,unstarted
+14,Venezia,Torino,14500136,unstarted
+14,Inter,Fiorentina,14500137,unstarted
+14,AC Milan,Lazio,14500138,unstarted
+14,Juventus,AS Roma,14500139,unstarted
+14,Atalanta,Bologna,14500140,unstarted
+15,Cagliari,Udinese,14500141,unstarted
+15,Empoli,Lecce,14500142,unstarted
+15,Parma,Verona,14500143,unstarted
+15,Como,Monza,14500144,unstarted
+15,Venezia,Genoa,14500145,unstarted
+15,Inter,Napoli,14500146,unstarted
+15,AC Milan,Torino,14500147,unstarted
+15,Juventus,Fiorentina,14500148,unstarted
+15,Atalanta,Lazio,14500149,unstarted
+15,Bologna,AS Roma,14500150,unstarted
+16,Empoli,Cagliari,14500151,unstarted
+16,Parma,Udinese,14500152,unstarted
+16,Como,Lecce,14500153,unstarted
+16,Venezia,Verona,14500154,unstarted
+16,Inter,Monza,14500155,unstarted
+16,AC Milan,Genoa,14500156,unstarted
+16,Juventus,Napoli,14500157,unstarted
+16,Atalanta,Torino,14500158,unstarted
+16,Bologna,Fiorentina,14500159,unstarted
+16,AS Roma,Lazio,14500160,unstarted
+17,Parma,Empoli,14500161,unstarted
+17,Como,Cagliari,14500162,unstarted
+17,Venezia,Udinese,14500163,unstarted
+17,Inter,Lecce,14500164,unstarted
+17,AC Milan,Verona,14500165,unstarted
+17,Juventus,Monza,14500166,unstarted
+17,Atalanta,Genoa,14500167,unstarted
+17,Bologna,Napoli,14500168,unstarted
+17,AS Roma,Torino,14500169,unstarted
+17,Lazio,Fiorentina,14500170,unstarted
+18,Como,Parma,14500171,unstarted
+18,Venezia,Empoli,14500172,unstarted
+18,Inter,Cagliari,14500173,unstarted
+18,AC Milan,Udinese,14500174,unstarted
+18,Juventus,Lecce,14500175,unstarted
+18,Atalanta,Verona,14500176,unstarted
+18,Bologna,Monza,14500177,unstarted
+18,AS Roma,Genoa,14500178,unstarted
+18,Lazio,Napoli,14500179,unstarted
+18,Fiorentina,Torino,14500180,unstarted
+19,Venezia,Como,14500181,unstarted
+19,Inter,Parma,14500182,unstarted
+19,AC Milan,Empoli,14500183,unstarted
+19,Juventus,Cagliari,14500184,unstarted
+19,Atalanta,Udinese,14500185,unstarted
+19,Bologna,Lecce,14500186,unstarted
+19,AS Roma,Verona,14500187,unstarted
+19,Lazio,Monza,14500188,unstarted
+19,Fiorentina,Genoa,14500189,unstarted
+19,Torino,Napoli,14500190,unstarted
+20,Inter,Venezia,14500191,unstarted
+20,AC Milan,Como,14500192,unstarted
+20,Juventus,Parma,14500193,unstarted
+20,Atalanta,Empoli,14500194,unstarted
+20,Bologna,Cagliari,14500195,unstarted
+20,AS Roma,Udinese,14500196,unstarted
+20,Lazio,Lecce,14500197,unstarted
+20,Fiorentina,Verona,14500198,unstarted
+20,Torino,Monza,14500199,unstarted
+20,Napoli,Genoa,14500200,unstarted
+21,AC Milan,Inter,14500201,unstarted
+21,Juventus,Venezia,14500202,unstarted
+21,Atalanta,Como,14500203,unstarted
+21,Bologna,Parma,14500204,unstarted
+21,AS Roma,Empoli,14500205,unstarted
+21,Lazio,Cagliari,14500206,unstarted
+21,Fiorentina,Udinese,14500207,unstarted
+21,Torino,Lecce,14500208,unstarted
+21,Napoli,Verona,14500209,unstarted
+21,Genoa,Monza,14500210,unstarted
+22,Juventus,AC Milan,14500211,unstarted
+22,Atalanta,Inter,14500212,unstarted
+22,Bologna,Venezia,14500213,unstarted
+22,AS Roma,Como,14500214,unstarted
+22,Lazio,Parma,14500215,unstarted
+22,Fiorentina,Empoli,14500216,unstarted
+22,Torino,Cagliari,14500217,unstarted
+22,Napoli,Udinese,14500218,unstarted
+22,Genoa,Lecce,14500219,unstarted
+22,Monza,Verona,14500220,unstarted
+23,Atalanta,Juventus,14500221,unstarted
+23,Bologna,AC Milan,14500222,unstarted
+23,AS Roma,Inter,14500223,unstarted
+23,Lazio,Venezia,14500224,unstarted
+23,Fiorentina,Como,14500225,unstarted
+23,Torino,Parma,14500226,unstarted
+23,Napoli,Empoli,14500227,unstarted
+23,Genoa,Cagliari,14500228,unstarted
+23,Monza,Udinese,14500229,unstarted
+23,Verona,Lecce,14500230,unstarted
+24,Bologna,Atalanta,14500231,unstarted
+24,AS Roma,Juventus,14500232,unstarted
+24,Lazio,AC Milan,14500233,unstarted
+24,Fiorentina,Inter,14500234,unstarted
+24,Torino,Venezia,14500235,unstarted
+24,Napoli,Como,14500236,unstarted
+24,Genoa,Parma,14500237,unstarted
+24,Monza,Empoli,14500238,unstarted
+24,Verona,Cagliari,14500239,unstarted
+24,Lecce,Udinese,14500240,unstarted
+25,AS Roma,Bologna,14500241,unstarted
+25,Lazio,Atalanta,14500242,unstarted
+25,Fiorentina,Juventus,14500243,unstarted
+25,Torino,AC Milan,14500244,unstarted
+25,Napoli,Inter,14500245,unstarted
+25,Genoa,Venezia,14500246,unstarted
+25,Monza,Como,14500247,unstarted
+25,Verona,Parma,14500248,unstarted
+25,Lecce,Empoli,14500249,unstarted
+25,Udinese,Cagliari,14500250,unstarted
+26,Lazio,AS Roma,14500251,unstarted
+26,Fiorentina,Bologna,14500252,unstarted
+26,Torino,Atalanta,14500253,unstarted
+26,Napoli,Juventus,14500254,unstarted
+26,Genoa,AC Milan,14500255,unstarted
+26,Monza,Inter,14500256,unstarted
+26,Verona,Venezia,14500257,unstarted
+26,Lecce,Como,14500258,unstarted
+26,Udinese,Parma,14500259,unstarted
+26,Cagliari,Empoli,14500260,unstarted
+27,Fiorentina,Lazio,14500261,unstarted
+27,Torino,AS Roma,14500262,unstarted
+27,Napoli,Bologna,14500263,unstarted
+27,Genoa,Atalanta,14500264,unstarted
+27,Monza,Juventus,14500265,unstarted
+27,Verona,AC Milan,14500266,unstarted
+27,Lecce,Inter,14500267,unstarted
+27,Udinese,Venezia,14500268,unstarted
+27,Cagliari,Como,14500269,unstarted
+27,Empoli,Parma,14500270,unstarted
+28,Torino,Fiorentina,14500271,unstarted
+28,Napoli,Lazio,14500272,unstarted
+28,Genoa,AS Roma,14500273,unstarted
+28,Monza,Bologna,14500274,unstarted
+28,Verona,Atalanta,14500275,unstarted
+28,Lecce,Juventus,14500276,unstarted
+28,Udinese,AC Milan,14500277,unstarted
+28,Cagliari,Inter,14500278,unstarted
+28,Empoli,Venezia,14500279,unstarted
+28,Parma,Como,14500280,unstarted
+29,Napoli,Torino,14500281,unstarted
+29,Genoa,Fiorentina,14500282,unstarted
+29,Monza,Lazio,14500283,unstarted
+29,Verona,AS Roma,14500284,unstarted
+29,Lecce,Bologna,14500285,unstarted
+29,Udinese,Atalanta,14500286,unstarted
+29,Cagliari,Juventus,14500287,unstarted
+29,Empoli,AC Milan,14500288,unstarted
+29,Parma,Inter,14500289,unstarted
+29,Como,Venezia,14500290,unstarted
+30,Genoa,Napoli,14500291,unstarted
+30,Monza,Torino,14500292,unstarted
+30,Verona,Fiorentina,14500293,unstarted
+30,Lecce,Lazio,14500294,unstarted
+30,Udinese,AS Roma,14500295,unstarted
+30,Cagliari,Bologna,14500296,unstarted
+30,Empoli,Atalanta,14500297,unstarted
+30,Parma,Juventus,14500298,unstarted
+30,Como,AC Milan,14500299,unstarted
+30,Venezia,Inter,14500300,unstarted
+31,Monza,Genoa,14500301,unstarted
+31,Verona,Napoli,14500302,unstarted
+31,Lecce,Torino,14500303,unstarted
+31,Udinese,Fiorentina,14500304,unstarted
+31,Cagliari,Lazio,14500305,unstarted
+31,Empoli,AS Roma,14500306,unstarted
+31,Parma,Bologna,14500307,unstarted
+31,Como,Atalanta,14500308,unstarted
+31,Venezia,Juventus,14500309,unstarted
+31,Inter,AC Milan,14500310,unstarted
+32,Verona,Monza,14500311,unstarted
+32,Lecce,Genoa,14500312,unstarted
+32,Udinese,Napoli,14500313,unstarted
+32,Cagliari,Torino,14500314,unstarted
+32,Empoli,Fiorentina,14500315,unstarted
+32,Parma,Lazio,14500316,unstarted
+32,Como,AS Roma,14500317,unstarted
+32,Venezia,Bologna,14500318,unstarted
+32,Inter,Atalanta,14500319,unstarted
+32,AC Milan,Juventus,14500320,unstarted
+33,Lecce,Verona,14500321,unstarted
+33,Udinese,Monza,14500322,unstarted
+33,Cagliari,Genoa,14500323,unstarted
+33,Empoli,Napoli,14500324,unstarted
+33,Parma,Torino,14500325,unstarted
+33,Como,Fiorentina,14500326,unstarted
+33,Venezia,Lazio,14500327,unstarted
+33,Inter,AS Roma,14500328,unstarted
+33,AC Milan,Bologna,14500329,unstarted
+33,Juventus,Atalanta,14500330,unstarted
+34,Udinese,Lecce,14500331,unstarted
+34,Cagliari,Verona,14500332,unstarted
+34,Empoli,Monza,14500333,unstarted
+34,Parma,Genoa,14500334,unstarted
+34,Como,Napoli,14500335,unstarted
+34,Venezia,Torino,14500336,unstarted
+34,Inter,Fiorentina,14500337,unstarted
+34,AC Milan,Lazio,14500338,unstarted
+34,Juventus,AS Roma,14500339,unstarted
+34,Atalanta,Bologna,14500340,unstarted
+35,Cagliari,Udinese,14500341,unstarted
+35,Empoli,Lecce,14500342,unstarted
+35,Parma,Verona,14500343,unstarted
+35,Como,Monza,14500344,unstarted
+35,Venezia,Genoa,14500345,unstarted
+35,Inter,Napoli,14500346,unstarted
+35,AC Milan,Torino,14500347,unstarted
+35,Juventus,Fiorentina,14500348,unstarted
+35,Atalanta,Lazio,14500349,unstarted
+35,Bologna,AS Roma,14500350,unstarted
+36,Empoli,Cagliari,14500351,unstarted
+36,Parma,Udinese,14500352,unstarted
+36,Como,Lecce,14500353,unstarted
+36,Venezia,Verona,14500354,unstarted
+36,Inter,Monza,14500355,unstarted
+36,AC Milan,Genoa,14500356,unstarted
+36,Juventus,Napoli,14500357,unstarted
+36,Atalanta,Torino,14500358,unstarted
+36,Bologna,Fiorentina,14500359,unstarted
+36,AS Roma,Lazio,14500360,unstarted
+37,Parma,Empoli,14500361,unstarted
+37,Como,Cagliari,14500362,unstarted
+37,Venezia,Udinese,14500363,unstarted
+37,Inter,Lecce,14500364,unstarted
+37,AC Milan,Verona,14500365,unstarted
+37,Juventus,Monza,14500366,unstarted
+37,Atalanta,Genoa,14500367,unstarted
+37,Bologna,Napoli,14500368,unstarted
+37,AS Roma,Torino,14500369,unstarted
+37,Lazio,Fiorentina,14500370,unstarted
+38,Como,Parma,14500371,unstarted
+38,Venezia,Empoli,14500372,unstarted
+38,Inter,Cagliari,14500373,unstarted
+38,AC Milan,Udinese,14500374,unstarted
+38,Juventus,Lecce,14500375,unstarted
+38,Atalanta,Verona,14500376,unstarted
+38,Bologna,Monza,14500377,unstarted
+38,AS Roma,Genoa,14500378,unstarted
+38,Lazio,Napoli,14500379,unstarted
+38,Fiorentina,Torino,14500380,unstarted

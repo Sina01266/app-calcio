@@ -1,0 +1,381 @@
+Anno,Giornata,Squadra_Casa,Squadra_Trasferta,Gol_Casa,Gol_Trasferta,ID_Partita
+2025,1,Inter,Torino,5,0,13981421
+2025,1,Genoa,Lecce,0,0,13981422
+2025,1,Como,Lazio,2,0,13981423
+2025,1,Juventus,Parma,2,0,13981424
+2025,1,Cagliari,Fiorentina,1,1,13981425
+2025,1,AS Roma,Bologna,1,0,13981428
+2025,1,Sassuolo,SSC Napoli,0,2,13981431
+2025,1,Udinese,Hellas Verona,1,1,13981438
+2025,1,AC Milan,Cremonese,1,2,13981439
+2025,1,Atalanta,Pisa,1,1,13981444
+2025,2,Parma,Atalanta,1,1,13981426
+2025,2,Torino,Fiorentina,0,0,13981429
+2025,2,Inter,Udinese,1,2,13981432
+2025,2,Bologna,Como,1,0,13981433
+2025,2,SSC Napoli,Cagliari,1,0,13981436
+2025,2,Pisa,AS Roma,0,1,13981441
+2025,2,Cremonese,Sassuolo,3,2,13981443
+2025,2,Lazio,Hellas Verona,4,0,13981446
+2025,2,Lecce,AC Milan,0,2,13981447
+2025,2,Genoa,Juventus,0,1,13981448
+2025,3,Cagliari,Parma,2,0,13981427
+2025,3,Como,Genoa,1,1,13981430
+2025,3,AS Roma,Torino,0,1,13981434
+2025,3,Juventus,Inter,4,3,13981435
+2025,3,AC Milan,Bologna,1,0,13981437
+2025,3,Fiorentina,SSC Napoli,1,3,13981442
+2025,3,Pisa,Udinese,0,1,13981445
+2025,3,Sassuolo,Lazio,1,0,13981449
+2025,3,Atalanta,Lecce,4,1,13981450
+2025,3,Hellas Verona,Cremonese,0,0,13981451
+2025,4,Hellas Verona,Juventus,1,1,13981452
+2025,4,Udinese,AC Milan,0,3,13981453
+2025,4,Torino,Atalanta,0,3,13981454
+2025,4,Lecce,Cagliari,1,2,13981455
+2025,4,Inter,Sassuolo,2,1,13981456
+2025,4,Lazio,AS Roma,0,1,13981457
+2025,4,SSC Napoli,Pisa,3,2,13981458
+2025,4,Bologna,Genoa,2,1,13981460
+2025,4,Fiorentina,Como,1,2,13981461
+2025,4,Cremonese,Parma,0,0,13981463
+2025,5,Cagliari,Inter,0,2,13981459
+2025,5,Como,Cremonese,1,1,13981462
+2025,5,Genoa,Lazio,0,3,13981464
+2025,5,Juventus,Atalanta,1,1,13981465
+2025,5,Parma,Torino,2,1,13981466
+2025,5,Pisa,Fiorentina,0,0,13981467
+2025,5,Lecce,Bologna,2,2,13981468
+2025,5,AS Roma,Hellas Verona,2,0,13981469
+2025,5,AC Milan,SSC Napoli,2,1,13981472
+2025,5,Sassuolo,Udinese,3,1,13981476
+2025,6,Bologna,Pisa,4,0,13981470
+2025,6,Juventus,AC Milan,0,0,13981471
+2025,6,Lazio,Torino,3,3,13981473
+2025,6,SSC Napoli,Genoa,2,1,13981474
+2025,6,Inter,Cremonese,4,1,13981475
+2025,6,Udinese,Cagliari,1,1,13981477
+2025,6,Fiorentina,AS Roma,1,2,13981478
+2025,6,Parma,Lecce,0,1,13981480
+2025,6,Hellas Verona,Sassuolo,0,1,13981481
+2025,6,Atalanta,Como,1,1,13981483
+2025,7,Torino,SSC Napoli,1,0,13981479
+2025,7,Como,Juventus,2,0,13981482
+2025,7,Pisa,Hellas Verona,0,0,13981484
+2025,7,AS Roma,Inter,0,1,13981485
+2025,7,AC Milan,Fiorentina,2,1,13981486
+2025,7,Atalanta,Lazio,0,0,13981487
+2025,7,Lecce,Sassuolo,0,0,13981490
+2025,7,Cremonese,Udinese,1,1,13981491
+2025,7,Genoa,Parma,0,0,13981494
+2025,7,Cagliari,Bologna,0,2,13981495
+2025,8,Cremonese,Atalanta,1,1,13981488
+2025,8,Hellas Verona,Cagliari,2,2,13981489
+2025,8,Torino,Genoa,2,1,13981492
+2025,8,Udinese,Lecce,3,2,13981493
+2025,8,Sassuolo,AS Roma,0,1,13981496
+2025,8,Parma,Como,0,0,13981497
+2025,8,SSC Napoli,Inter,3,1,13981498
+2025,8,AC Milan,Pisa,2,2,13981499
+2025,8,Lazio,Juventus,1,0,13981500
+2025,8,Fiorentina,Bologna,2,2,13981502
+2025,9,Atalanta,AC Milan,1,1,13981501
+2025,9,Cagliari,Sassuolo,1,2,13981503
+2025,9,Bologna,Torino,0,0,13981504
+2025,9,Genoa,Cremonese,0,2,13981505
+2025,9,Inter,Fiorentina,3,0,13981506
+2025,9,Como,Hellas Verona,3,1,13981507
+2025,9,Juventus,Udinese,3,1,13981508
+2025,9,Lecce,SSC Napoli,0,1,13981509
+2025,9,Pisa,Lazio,0,0,13981511
+2025,9,AS Roma,Parma,2,1,13981512
+2025,10,Cremonese,Juventus,1,2,13981510
+2025,10,Fiorentina,Lecce,0,1,13981513
+2025,10,SSC Napoli,Como,0,0,13981514
+2025,10,Lazio,Cagliari,2,0,13981515
+2025,10,Udinese,Atalanta,1,0,13981516
+2025,10,AC Milan,AS Roma,1,0,13981517
+2025,10,Hellas Verona,Inter,1,2,13981518
+2025,10,Torino,Pisa,2,2,13981520
+2025,10,Parma,Bologna,1,3,13981522
+2025,10,Sassuolo,Genoa,1,2,13981524
+2025,11,Bologna,SSC Napoli,2,0,13981519
+2025,11,Atalanta,Sassuolo,0,3,13981521
+2025,11,AS Roma,Udinese,2,0,13981523
+2025,11,Pisa,Cremonese,1,0,13981525
+2025,11,Lecce,Hellas Verona,0,0,13981526
+2025,11,Inter,Lazio,2,0,13981527
+2025,11,Parma,AC Milan,2,2,13981528
+2025,11,Como,Cagliari,0,0,13981529
+2025,11,Genoa,Fiorentina,2,2,13981530
+2025,11,Juventus,Torino,0,0,13981531
+2025,12,Hellas Verona,Parma,1,2,13981532
+2025,12,SSC Napoli,Atalanta,3,1,13981533
+2025,12,Udinese,Bologna,0,3,13981534
+2025,12,Torino,Como,1,5,13981535
+2025,12,Sassuolo,Pisa,2,2,13981536
+2025,12,Lazio,Lecce,2,0,13981537
+2025,12,Inter,AC Milan,0,1,13981538
+2025,12,Fiorentina,Juventus,1,1,13981539
+2025,12,Cremonese,AS Roma,1,3,13981541
+2025,12,Cagliari,Genoa,3,3,13981542
+2025,13,AS Roma,SSC Napoli,0,1,13981540
+2025,13,Pisa,Inter,0,2,13981543
+2025,13,Parma,Udinese,0,2,13981544
+2025,13,AC Milan,Lazio,1,0,13981545
+2025,13,Lecce,Torino,2,1,13981546
+2025,13,Genoa,Hellas Verona,2,1,13981547
+2025,13,Como,Sassuolo,2,0,13981548
+2025,13,Atalanta,Fiorentina,2,0,13981549
+2025,13,Bologna,Cremonese,1,3,13981550
+2025,13,Juventus,Cagliari,2,1,13981551
+2025,14,Udinese,Genoa,1,2,13981552
+2025,14,Hellas Verona,Atalanta,3,1,13981553
+2025,14,Torino,AC Milan,2,3,13981554
+2025,14,Pisa,Parma,0,1,13981555
+2025,14,Lazio,Bologna,1,1,13981556
+2025,14,SSC Napoli,Juventus,2,1,13981557
+2025,14,Sassuolo,Fiorentina,3,1,13981558
+2025,14,Inter,Como,4,0,13981559
+2025,14,Cagliari,AS Roma,1,0,13981560
+2025,14,Cremonese,Lecce,2,0,13981563
+2025,15,Lecce,Pisa,1,0,13981561
+2025,15,AC Milan,Sassuolo,2,2,13981562
+2025,15,Genoa,Inter,1,2,13981564
+2025,15,Bologna,Juventus,0,1,13981565
+2025,15,Parma,Lazio,0,1,13981566
+2025,15,Atalanta,Cagliari,2,1,13981569
+2025,15,Udinese,SSC Napoli,1,0,13981570
+2025,15,Fiorentina,Hellas Verona,1,2,13981571
+2025,15,Torino,Cremonese,1,0,13981573
+2025,15,AS Roma,Como,1,0,13981577
+2025,16,Fiorentina,Udinese,5,1,13981568
+2025,16,Lazio,Cremonese,0,0,13981572
+2025,16,Juventus,AS Roma,2,1,13981575
+2025,16,Genoa,Atalanta,0,1,13981579
+2025,16,Sassuolo,Torino,0,1,13981580
+2025,16,Cagliari,Pisa,2,2,13981581
+2025,17,Cremonese,SSC Napoli,0,2,13981582
+2025,17,Udinese,Lazio,1,1,13981583
+2025,17,Torino,Cagliari,1,2,13981584
+2025,17,Pisa,Juventus,0,2,13981585
+2025,17,AS Roma,Genoa,3,1,13981586
+2025,17,Parma,Fiorentina,1,0,13981587
+2025,17,AC Milan,Hellas Verona,3,0,13981588
+2025,17,Bologna,Sassuolo,1,1,13981589
+2025,17,Lecce,Como,0,3,13981590
+2025,17,Atalanta,Inter,0,1,13981591
+2026,16,Inter,Lecce,1,0,14844287
+2026,16,Hellas Verona,Bologna,2,3,14844293
+2026,16,SSC Napoli,Parma,0,0,14844295
+2026,16,Como,AC Milan,1,3,14844296
+2026,18,Lazio,SSC Napoli,0,2,13981592
+2026,18,Hellas Verona,Torino,0,3,13981593
+2026,18,Atalanta,AS Roma,1,0,13981594
+2026,18,Sassuolo,Parma,1,1,13981595
+2026,18,Juventus,Lecce,1,1,13981596
+2026,18,Inter,Bologna,3,1,13981597
+2026,18,Genoa,Pisa,1,1,13981598
+2026,18,Fiorentina,Cremonese,1,0,13981599
+2026,18,Como,Udinese,1,0,13981600
+2026,18,Cagliari,AC Milan,0,1,13981602
+2026,19,Bologna,Atalanta,0,2,13981601
+2026,19,Lecce,AS Roma,0,2,13981604
+2026,19,Lazio,Fiorentina,2,2,13981605
+2026,19,SSC Napoli,Hellas Verona,2,2,13981607
+2026,19,Sassuolo,Juventus,0,3,13981608
+2026,19,Pisa,Como,0,3,13981609
+2026,19,Parma,Inter,0,2,13981610
+2026,19,Torino,Udinese,1,2,13981611
+2026,19,Cremonese,Cagliari,2,2,14844436
+2026,19,AC Milan,Genoa,1,1,14844437
+2026,20,Atalanta,Torino,2,0,13981613
+2026,20,Fiorentina,AC Milan,1,1,13981614
+2026,20,Hellas Verona,Lazio,0,1,13981615
+2026,20,Como,Bologna,1,1,13981616
+2026,20,Genoa,Cagliari,3,0,13981617
+2026,20,Inter,SSC Napoli,2,2,13981618
+2026,20,AS Roma,Sassuolo,2,0,13981619
+2026,20,Lecce,Parma,1,2,13981621
+2026,20,Juventus,Cremonese,5,0,13981623
+2026,20,Udinese,Pisa,2,2,13981624
+2026,21,Bologna,Fiorentina,1,2,13981620
+2026,21,Cremonese,Hellas Verona,0,0,13981622
+2026,21,Cagliari,Juventus,1,0,13981625
+2026,21,Lazio,Como,0,3,13981626
+2026,21,Parma,Genoa,0,0,13981627
+2026,21,AC Milan,Lecce,1,0,13981628
+2026,21,Pisa,Atalanta,1,1,13981629
+2026,21,Udinese,Inter,0,1,13981630
+2026,21,SSC Napoli,Sassuolo,1,0,13981633
+2026,21,Torino,AS Roma,0,2,13981634
+2026,22,Como,Torino,6,0,13981631
+2026,22,Fiorentina,Cagliari,1,2,13981632
+2026,22,Atalanta,Parma,4,0,13981635
+2026,22,Genoa,Bologna,3,2,13981636
+2026,22,Inter,Pisa,6,2,13981637
+2026,22,Juventus,SSC Napoli,3,0,13981638
+2026,22,Lecce,Lazio,0,0,13981639
+2026,22,Hellas Verona,Udinese,1,3,13981640
+2026,22,AS Roma,AC Milan,1,1,13981641
+2026,22,Sassuolo,Cremonese,1,0,13981642
+2026,23,Cagliari,Hellas Verona,4,0,13981644
+2026,23,Como,Atalanta,0,0,13981645
+2026,23,Lazio,Genoa,3,2,13981646
+2026,23,SSC Napoli,Fiorentina,2,1,13981647
+2026,23,Parma,Juventus,1,4,13981648
+2026,23,Cremonese,Inter,0,2,13981649
+2026,23,Udinese,AS Roma,1,0,13981651
+2026,23,Pisa,Sassuolo,1,3,13981652
+2026,23,Torino,Lecce,1,0,13981653
+2026,23,Bologna,AC Milan,0,3,15370282
+2026,24,Atalanta,Cremonese,2,1,13981650
+2026,24,Bologna,Parma,0,1,13981654
+2026,24,Juventus,Lazio,2,2,13981655
+2026,24,Lecce,Udinese,2,1,13981656
+2026,24,Fiorentina,Torino,2,2,13981658
+2026,24,Sassuolo,Inter,0,5,13981660
+2026,24,Hellas Verona,Pisa,0,0,13981662
+2026,24,AS Roma,Cagliari,2,0,13981664
+2026,24,Genoa,SSC Napoli,2,3,13981666
+2026,24,AC Milan,Como,1,1,15462526
+2026,25,Cremonese,Genoa,0,0,13981657
+2026,25,Lazio,Atalanta,0,2,13981659
+2026,25,Cagliari,Lecce,0,2,13981663
+2026,25,SSC Napoli,AS Roma,2,2,13981665
+2026,25,Como,Fiorentina,1,2,13981667
+2026,25,Parma,Hellas Verona,2,1,13981668
+2026,25,Torino,Bologna,1,2,13981669
+2026,25,Pisa,AC Milan,1,2,13981670
+2026,25,Inter,Juventus,3,2,13981671
+2026,25,Udinese,Sassuolo,1,2,13981672
+2026,26,Atalanta,SSC Napoli,2,1,13981673
+2026,26,Cagliari,Lazio,0,0,13981674
+2026,26,Bologna,Udinese,1,0,13981675
+2026,26,Genoa,Torino,3,0,13981676
+2026,26,Fiorentina,Pisa,1,0,13981677
+2026,26,Juventus,Como,0,2,13981678
+2026,26,Lecce,Inter,0,2,13981679
+2026,26,AC Milan,Parma,0,1,13981680
+2026,26,Sassuolo,Hellas Verona,3,0,13981681
+2026,26,AS Roma,Cremonese,3,0,13981682
+2026,27,Como,Lecce,3,1,13981683
+2026,27,Inter,Genoa,2,0,13981684
+2026,27,Cremonese,AC Milan,0,2,13981685
+2026,27,Pisa,Bologna,0,1,13981686
+2026,27,Parma,Cagliari,1,1,13981687
+2026,27,AS Roma,Juventus,3,3,13981688
+2026,27,Sassuolo,Atalanta,2,1,13981689
+2026,27,Torino,Lazio,2,0,13981690
+2026,27,Udinese,Fiorentina,3,0,13981691
+2026,27,Hellas Verona,SSC Napoli,1,2,13981694
+2026,28,Bologna,Hellas Verona,1,2,13981692
+2026,28,Cagliari,Como,1,2,13981693
+2026,28,Atalanta,Udinese,2,2,13981695
+2026,28,Fiorentina,Parma,0,0,13981696
+2026,28,Juventus,Pisa,4,0,13981697
+2026,28,Genoa,AS Roma,2,1,13981698
+2026,28,Lazio,Sassuolo,2,1,13981699
+2026,28,AC Milan,Inter,1,0,13981700
+2026,28,Lecce,Cremonese,2,1,13981701
+2026,28,SSC Napoli,Torino,2,1,13981702
+2026,29,Como,AS Roma,2,1,13981703
+2026,29,Cremonese,Fiorentina,1,4,13981704
+2026,29,Inter,Atalanta,1,1,13981705
+2026,29,Pisa,Cagliari,3,1,13981706
+2026,29,Lazio,AC Milan,1,0,13981707
+2026,29,SSC Napoli,Lecce,2,1,13981708
+2026,29,Hellas Verona,Genoa,0,2,13981710
+2026,29,Sassuolo,Bologna,0,1,13981711
+2026,29,Udinese,Juventus,0,1,13981712
+2026,29,Torino,Parma,4,1,13981714
+2026,30,Atalanta,Hellas Verona,1,0,13981709
+2026,30,Bologna,Lazio,0,2,13981713
+2026,30,Fiorentina,Inter,1,1,13981715
+2026,30,Genoa,Udinese,0,2,13981716
+2026,30,Cagliari,SSC Napoli,0,1,13981717
+2026,30,Como,Pisa,5,0,13981718
+2026,30,Juventus,Sassuolo,1,1,13981719
+2026,30,Parma,Cremonese,0,2,13981721
+2026,30,AS Roma,Lecce,1,0,13981722
+2026,30,AC Milan,Torino,3,2,13981724
+2026,31,Inter,AS Roma,5,2,13981720
+2026,31,Juventus,Genoa,2,0,13981723
+2026,31,Cremonese,Bologna,1,2,13981725
+2026,31,Lecce,Atalanta,0,3,13981726
+2026,31,SSC Napoli,AC Milan,1,0,13981727
+2026,31,Pisa,Torino,0,1,13981728
+2026,31,Lazio,Parma,1,1,13981729
+2026,31,Sassuolo,Cagliari,2,1,13981730
+2026,31,Udinese,Como,0,0,13981731
+2026,31,Hellas Verona,Fiorentina,0,1,13981732
+2026,32,Atalanta,Juventus,0,1,13981733
+2026,32,Bologna,Lecce,2,0,13981734
+2026,32,Cagliari,Cremonese,1,0,13981735
+2026,32,Como,Inter,3,4,13981736
+2026,32,Genoa,Sassuolo,2,1,13981737
+2026,32,Fiorentina,Lazio,1,0,13981738
+2026,32,AC Milan,Udinese,0,3,13981739
+2026,32,Parma,SSC Napoli,1,1,13981740
+2026,32,Torino,Hellas Verona,2,1,13981741
+2026,32,AS Roma,Pisa,3,0,13981742
+2026,33,Juventus,Bologna,2,0,13980098
+2026,33,Lecce,Fiorentina,1,1,13980099
+2026,33,Pisa,Genoa,1,2,13980100
+2026,33,SSC Napoli,Lazio,0,2,13980101
+2026,33,AS Roma,Atalanta,1,1,13980102
+2026,33,Sassuolo,Como,2,1,13980103
+2026,33,Udinese,Parma,0,1,13980108
+2026,33,Hellas Verona,AC Milan,0,1,13980115
+2026,33,Cremonese,Torino,0,0,13981743
+2026,33,Inter,Cagliari,3,0,13981744
+2026,34,Torino,Inter,2,2,13980104
+2026,34,SSC Napoli,Cremonese,4,0,13980105
+2026,34,AC Milan,Juventus,0,0,13980106
+2026,34,Parma,Pisa,1,0,13980107
+2026,34,Genoa,Como,0,2,13980109
+2026,34,Fiorentina,Sassuolo,0,0,13980110
+2026,34,Cagliari,Atalanta,3,2,13980111
+2026,34,Lazio,Udinese,3,3,13980112
+2026,34,Bologna,AS Roma,0,2,13980113
+2026,34,Hellas Verona,Lecce,0,0,13980114
+2026,35,Como,SSC Napoli,0,0,13980081
+2026,35,Bologna,Cagliari,0,0,13980082
+2026,35,Atalanta,Genoa,0,0,13980083
+2026,35,Inter,Parma,2,0,13980084
+2026,35,AS Roma,Fiorentina,4,0,13980086
+2026,35,Sassuolo,AC Milan,2,0,13980087
+2026,35,Juventus,Hellas Verona,1,1,13980091
+2026,35,Cremonese,Lazio,1,2,13980094
+2026,35,Udinese,Torino,2,0,13980095
+2026,35,Pisa,Lecce,1,2,13980097
+2026,36,Hellas Verona,Como,0,1,13980059
+2026,36,Parma,AS Roma,2,3,13980062
+2026,36,Torino,Sassuolo,2,1,13980073
+2026,36,Fiorentina,Genoa,0,0,13980085
+2026,36,Cagliari,Udinese,0,2,13980088
+2026,36,SSC Napoli,Bologna,2,3,13980089
+2026,36,Lazio,Inter,0,3,13980090
+2026,36,Lecce,Juventus,0,1,13980092
+2026,36,Cremonese,Pisa,3,0,13980093
+2026,36,AC Milan,Atalanta,2,3,13980096
+2026,37,Atalanta,Bologna,0,1,13980058
+2026,37,Cagliari,Torino,2,1,13980060
+2026,37,AS Roma,Lazio,2,0,13980063
+2026,37,Pisa,SSC Napoli,0,3,13980065
+2026,37,Inter,Hellas Verona,1,1,13980067
+2026,37,Genoa,AC Milan,1,2,13980068
+2026,37,Como,Parma,1,0,13980069
+2026,37,Juventus,Fiorentina,0,2,13980075
+2026,37,Udinese,Cremonese,0,1,13980076
+2026,37,Sassuolo,Lecce,2,3,13980078
+2026,38,SSC Napoli,Udinese,1,0,13980061
+2026,38,Hellas Verona,AS Roma,0,2,13980064
+2026,38,Lecce,Genoa,1,0,13980066
+2026,38,Cremonese,Como,1,4,13980070
+2026,38,AC Milan,Cagliari,1,2,13980071
+2026,38,Lazio,Pisa,2,1,13980072
+2026,38,Parma,Sassuolo,1,0,13980074
+2026,38,Torino,Juventus,2,2,13980077
+2026,38,Bologna,Inter,3,3,13980079
+2026,38,Fiorentina,Atalanta,1,1,13980080
